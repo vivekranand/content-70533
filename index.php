@@ -11,6 +11,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h2>Settings Demo: Vivek Academy: Microsoft Azure Exam 70-533 Prep</h2>
+					<h3>Included through GitHub</h3>
 					<p>This PHP page shows the settings in this Azure Web App.</p>
 					<table class="table table-striped">
 						<thead>
